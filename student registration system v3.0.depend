@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556051127 source:e:\c\student registration system v3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<conio.h>
+
